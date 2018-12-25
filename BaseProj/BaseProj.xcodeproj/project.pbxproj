@@ -26,13 +26,13 @@
 		D9E0D35221D1C23400A03E2C /* RequestManger.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D35121D1C23400A03E2C /* RequestManger.m */; };
 		D9E0D35721D1C24E00A03E2C /* GLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D35521D1C24E00A03E2C /* GLineView.m */; };
 		D9E0D35A21D1C29300A03E2C /* AppAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D35921D1C29300A03E2C /* AppAlertView.m */; };
-		D9E0D36721D1C31100A03E2C /* LoginCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D35E21D1C31100A03E2C /* LoginCtr.m */; };
-		D9E0D36821D1C31100A03E2C /* RegisterCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D35F21D1C31100A03E2C /* RegisterCtr.m */; };
-		D9E0D36921D1C31100A03E2C /* UserNotice.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D36121D1C31100A03E2C /* UserNotice.m */; };
-		D9E0D36A21D1C31100A03E2C /* userNotice.docx in Resources */ = {isa = PBXBuildFile; fileRef = D9E0D36421D1C31100A03E2C /* userNotice.docx */; };
-		D9E0D36B21D1C31100A03E2C /* BangDingCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D36521D1C31100A03E2C /* BangDingCtr.m */; };
 		D9E0D36E21D1C35300A03E2C /* HeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D36C21D1C35300A03E2C /* HeadView.m */; };
 		D9E0D37121D1C36900A03E2C /* MainCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D37021D1C36900A03E2C /* MainCtr.m */; };
+		D9E0D37C21D1CE4800A03E2C /* LoginCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D37321D1CE4800A03E2C /* LoginCtr.m */; };
+		D9E0D37D21D1CE4800A03E2C /* RegisterCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D37421D1CE4800A03E2C /* RegisterCtr.m */; };
+		D9E0D37E21D1CE4800A03E2C /* UserNotice.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D37621D1CE4800A03E2C /* UserNotice.m */; };
+		D9E0D37F21D1CE4800A03E2C /* userNotice.docx in Resources */ = {isa = PBXBuildFile; fileRef = D9E0D37921D1CE4800A03E2C /* userNotice.docx */; };
+		D9E0D38021D1CE4800A03E2C /* BangDingCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E0D37A21D1CE4800A03E2C /* BangDingCtr.m */; };
 		F3021BE376CAF63778FF1E64 /* libPods-BaseProj.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E4D851C5541B9FA2A6D5FEA /* libPods-BaseProj.a */; };
 /* End PBXBuildFile section */
 
@@ -96,19 +96,19 @@
 		D9E0D35621D1C24E00A03E2C /* GLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLineView.h; sourceTree = "<group>"; };
 		D9E0D35821D1C29300A03E2C /* AppAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppAlertView.h; sourceTree = "<group>"; };
 		D9E0D35921D1C29300A03E2C /* AppAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppAlertView.m; sourceTree = "<group>"; };
-		D9E0D35E21D1C31100A03E2C /* LoginCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginCtr.m; sourceTree = "<group>"; };
-		D9E0D35F21D1C31100A03E2C /* RegisterCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterCtr.m; sourceTree = "<group>"; };
-		D9E0D36021D1C31100A03E2C /* BangDingCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BangDingCtr.h; sourceTree = "<group>"; };
-		D9E0D36121D1C31100A03E2C /* UserNotice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserNotice.m; sourceTree = "<group>"; };
-		D9E0D36221D1C31100A03E2C /* RegisterCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterCtr.h; sourceTree = "<group>"; };
-		D9E0D36321D1C31100A03E2C /* LoginCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginCtr.h; sourceTree = "<group>"; };
-		D9E0D36421D1C31100A03E2C /* userNotice.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = userNotice.docx; sourceTree = "<group>"; };
-		D9E0D36521D1C31100A03E2C /* BangDingCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BangDingCtr.m; sourceTree = "<group>"; };
-		D9E0D36621D1C31100A03E2C /* UserNotice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserNotice.h; sourceTree = "<group>"; };
 		D9E0D36C21D1C35300A03E2C /* HeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeadView.m; sourceTree = "<group>"; };
 		D9E0D36D21D1C35300A03E2C /* HeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeadView.h; sourceTree = "<group>"; };
 		D9E0D36F21D1C36900A03E2C /* MainCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainCtr.h; sourceTree = "<group>"; };
 		D9E0D37021D1C36900A03E2C /* MainCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainCtr.m; sourceTree = "<group>"; };
+		D9E0D37321D1CE4800A03E2C /* LoginCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginCtr.m; sourceTree = "<group>"; };
+		D9E0D37421D1CE4800A03E2C /* RegisterCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterCtr.m; sourceTree = "<group>"; };
+		D9E0D37521D1CE4800A03E2C /* BangDingCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BangDingCtr.h; sourceTree = "<group>"; };
+		D9E0D37621D1CE4800A03E2C /* UserNotice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserNotice.m; sourceTree = "<group>"; };
+		D9E0D37721D1CE4800A03E2C /* RegisterCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterCtr.h; sourceTree = "<group>"; };
+		D9E0D37821D1CE4800A03E2C /* LoginCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginCtr.h; sourceTree = "<group>"; };
+		D9E0D37921D1CE4800A03E2C /* userNotice.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = userNotice.docx; sourceTree = "<group>"; };
+		D9E0D37A21D1CE4800A03E2C /* BangDingCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BangDingCtr.m; sourceTree = "<group>"; };
+		D9E0D37B21D1CE4800A03E2C /* UserNotice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserNotice.h; sourceTree = "<group>"; };
 		E1DAD101EB2F5962AA126302 /* Pods-BaseProjTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProjTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BaseProjTests/Pods-BaseProjTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E726F1A9E6C7793AD6126438 /* Pods-BaseProjTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProjTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BaseProjTests/Pods-BaseProjTests.release.xcconfig"; sourceTree = "<group>"; };
 		F213EC339A6F011C712F1219 /* Pods-BaseProjUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProjUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BaseProjUITests/Pods-BaseProjUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -279,26 +279,25 @@
 		D9E0D35B21D1C2E700A03E2C /* class */ = {
 			isa = PBXGroup;
 			children = (
-				D9E0D35D21D1C31100A03E2C /* login */,
+				D9E0D37221D1CE4800A03E2C /* login */,
 			);
 			path = class;
 			sourceTree = "<group>";
 		};
-		D9E0D35D21D1C31100A03E2C /* login */ = {
+		D9E0D37221D1CE4800A03E2C /* login */ = {
 			isa = PBXGroup;
 			children = (
-				D9E0D36021D1C31100A03E2C /* BangDingCtr.h */,
-				D9E0D36521D1C31100A03E2C /* BangDingCtr.m */,
-				D9E0D36321D1C31100A03E2C /* LoginCtr.h */,
-				D9E0D35E21D1C31100A03E2C /* LoginCtr.m */,
-				D9E0D36221D1C31100A03E2C /* RegisterCtr.h */,
-				D9E0D35F21D1C31100A03E2C /* RegisterCtr.m */,
-				D9E0D36421D1C31100A03E2C /* userNotice.docx */,
-				D9E0D36621D1C31100A03E2C /* UserNotice.h */,
-				D9E0D36121D1C31100A03E2C /* UserNotice.m */,
+				D9E0D37521D1CE4800A03E2C /* BangDingCtr.h */,
+				D9E0D37A21D1CE4800A03E2C /* BangDingCtr.m */,
+				D9E0D37821D1CE4800A03E2C /* LoginCtr.h */,
+				D9E0D37321D1CE4800A03E2C /* LoginCtr.m */,
+				D9E0D37721D1CE4800A03E2C /* RegisterCtr.h */,
+				D9E0D37421D1CE4800A03E2C /* RegisterCtr.m */,
+				D9E0D37921D1CE4800A03E2C /* userNotice.docx */,
+				D9E0D37B21D1CE4800A03E2C /* UserNotice.h */,
+				D9E0D37621D1CE4800A03E2C /* UserNotice.m */,
 			);
-			name = login;
-			path = ../../../my/MyTestAppp/HarmonyProjectIOS/HarmonyProjectIOS/class/login;
+			path = login;
 			sourceTree = "<group>";
 		};
 		DD9DC19A136770297AFA5903 /* Frameworks */ = {
@@ -418,7 +417,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9E0D36A21D1C31100A03E2C /* userNotice.docx in Resources */,
+				D9E0D37F21D1CE4800A03E2C /* userNotice.docx in Resources */,
 				D9E0D31421D1BE8300A03E2C /* LaunchScreen.storyboard in Resources */,
 				D9E0D31121D1BE8200A03E2C /* Assets.xcassets in Resources */,
 				D9E0D30F21D1BE8100A03E2C /* Main.storyboard in Resources */,
@@ -523,22 +522,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9E0D37E21D1CE4800A03E2C /* UserNotice.m in Sources */,
 				D9E0D34921D1BEAA00A03E2C /* UIView+KGViewExtend.m in Sources */,
+				D9E0D37C21D1CE4800A03E2C /* LoginCtr.m in Sources */,
 				D9E0D35A21D1C29300A03E2C /* AppAlertView.m in Sources */,
 				D9E0D34721D1BEAA00A03E2C /* NSDictionary+CheakValue.m in Sources */,
 				D9E0D30C21D1BE8100A03E2C /* ViewController.m in Sources */,
-				D9E0D36721D1C31100A03E2C /* LoginCtr.m in Sources */,
 				D9E0D34A21D1BEAA00A03E2C /* UIColor+RGB.m in Sources */,
+				D9E0D37D21D1CE4800A03E2C /* RegisterCtr.m in Sources */,
 				D9E0D34B21D1BEAA00A03E2C /* NSString+Cheak.m in Sources */,
 				D9E0D31721D1BE8300A03E2C /* main.m in Sources */,
 				D9E0D36E21D1C35300A03E2C /* HeadView.m in Sources */,
 				D9E0D30921D1BE8100A03E2C /* AppDelegate.m in Sources */,
 				D9E0D34621D1BEAA00A03E2C /* UIView+capture.m in Sources */,
-				D9E0D36821D1C31100A03E2C /* RegisterCtr.m in Sources */,
-				D9E0D36B21D1C31100A03E2C /* BangDingCtr.m in Sources */,
 				D9E0D34821D1BEAA00A03E2C /* UIIamge+FixOrien.m in Sources */,
 				D9E0D35221D1C23400A03E2C /* RequestManger.m in Sources */,
-				D9E0D36921D1C31100A03E2C /* UserNotice.m in Sources */,
+				D9E0D38021D1CE4800A03E2C /* BangDingCtr.m in Sources */,
 				D9E0D37121D1C36900A03E2C /* MainCtr.m in Sources */,
 				D9E0D35721D1C24E00A03E2C /* GLineView.m in Sources */,
 			);
